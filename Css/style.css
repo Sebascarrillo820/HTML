@@ -1,0 +1,39 @@
+:root{
+    --color-texto:gray;
+}
+
+div{
+    background-color: blue;
+}
+
+/* Para llamar a una id, # y el nombre de id */
+#section{
+    color: orange;
+}
+
+/* Para llamar clase, el . y el nombre de la clase */
+.container{
+    background-color: #27F2F5;
+    color:chocolate;
+    border: 1px solid red;
+}
+
+h4{
+    color: rgb(245, 223, 0)
+}
+
+#titulo4{
+    color: azure;
+}
+
+.boton{
+    color: white;
+}
+
+.boton{
+    color: black;
+}
+
+.caja{
+    background-color: var(--color-texto);
+}
